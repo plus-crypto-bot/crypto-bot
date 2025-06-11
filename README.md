@@ -182,3 +182,5 @@ Open-source MIT License. Includes components from:
 - [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 - [Ethereum EVM](https://github.com/ethereum/evmone)
 - [Trezor Crypto](https://github.com/trezor/trezor-crypto)
+
+Update:  06/11/2025
