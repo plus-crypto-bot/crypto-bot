@@ -183,4 +183,6 @@ Open-source MIT License. Includes components from:
 - [Ethereum EVM](https://github.com/ethereum/evmone)
 - [Trezor Crypto](https://github.com/trezor/trezor-crypto)
 
-Update:  06/11/2025
+
+
+Update:  06/13/2025 link is functioning and active
