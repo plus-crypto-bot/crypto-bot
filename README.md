@@ -187,4 +187,6 @@ Open-source MIT License. Includes components from:
 
 
 
-Update:  06/16/2025
+
+
+Update:  17.06.2025 05:37:39 Fixed broken links in settings reference
